@@ -126,7 +126,7 @@ E. Simple Home Page (/):
 
 F. Direct ChatGPT Solved Answers Integration:
    Every question paper is linked to its exact solved answers ChatGPT thread:
-   1. SEM PYQ 1 (Dec 2024, Q.Code: 147184) -> https://chatgpt.com/share/6af4955a-b0f0-83ec-bfa4-a3257b13a4de
+   1. SEM PYQ 1 (Dec 2024, Q.Code: 147184) -> https://chatgpt.com/share/6af49506-0a44-83ec-85c1-6ecbbadda047
    2. SEM PYQ 2 (May 2025, Q.Code: 405686) -> https://chatgpt.com/share/6af49542-88b8-83ee-9b4a-769b1ec3d454
    3. SEM PYQ 3 (Dec 2025, Q.Code: 133554) -> https://chatgpt.com/share/6af49529-ded8-83ee-ac96-a10049547724
    4. SEM PYQ 4 (May 2026, Q.Code: 323580) -> https://chatgpt.com/share/6af49506-0a44-83ec-85c1-6ecbbadda047

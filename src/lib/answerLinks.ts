@@ -15,7 +15,7 @@ export const CHATGPT_ANSWER_LINKS: Record<string, ChatGptLinkInfo> = {
     examCode: "SEM_PYQ_1",
     examTitle: "Semester Examination – Dec 2024 (Sem 5, Q.Code: 147184)",
     questionPaperName: "OM22001 (2).pdf",
-    chatGptUrl: "https://chatgpt.com/share/6af4955a-b0f0-83ec-bfa4-a3257b13a4de",
+    chatGptUrl: "https://chatgpt.com/share/6af49506-0a44-83ec-85c1-6ecbbadda047",
   },
   SEM_PYQ_2: {
     examCode: "SEM_PYQ_2",
