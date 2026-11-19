@@ -3,7 +3,6 @@ const URLS = [
   'https://chatgpt.com/share/6af49517-7c80-83ec-a422-4c8bde96cd14',
   'https://chatgpt.com/share/6af49529-ded8-83ee-ac96-a10049547724',
   'https://chatgpt.com/share/6af49542-88b8-83ee-9b4a-769b1ec3d454',
-  'https://chatgpt.com/share/6af4955a-b0f0-83ec-bfa4-a3257b13a4de',
   'https://chatgpt.com/share/6af49571-bafc-83e8-af94-15f7f6f48800',
   'https://chatgpt.com/share/6af49588-ac1c-83ee-ab3e-b65021201e1d',
   'https://chatgpt.com/share/6af4959d-3f40-83ee-a7bc-7562286c5b1b',

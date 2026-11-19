@@ -338,7 +338,7 @@ ANSWER_CONFIGS = [
     'title': 'Semester Examination Dec 2024 (SEM PYQ 1) — Complete Worked Solutions',
     'subtitle': 'Anna University Regulation 2022',
     'exam_meta': 'Semester 5 | Q.Code: 147184 | Max Marks: 100 | Duration: 3 Hours',
-    'chat_url': 'https://chatgpt.com/share/6af4955a-b0f0-83ec-bfa4-a3257b13a4de',
+    'chat_url': 'https://chatgpt.com/share/6af49506-0a44-83ec-85c1-6ecbbadda047',
     'description': 'Anna University End-Semester Examination – December 2024 (Fifth Semester) Official Worked Solutions. Q.Code: 147184. Full worked solutions for Part A (20 x 2M), Part B (5 x 10M), and Part C (1 x 10M compulsory).',
     'tags': 'Dec 2024, Sem 5, QCode 147184, Answers, Worked Solutions, Part A, Part B, Part C, 100 Marks',
   },
