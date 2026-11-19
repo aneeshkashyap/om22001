@@ -21,19 +21,19 @@ export const CHATGPT_ANSWER_LINKS: Record<string, ChatGptLinkInfo> = {
     examCode: "SEM_PYQ_2",
     examTitle: "Semester Examination – May 2025 (Sem 5, Q.Code: 405686)",
     questionPaperName: "OM22001 (1).pdf",
-    chatGptUrl: "https://chatgpt.com/share/6af49542-88b8-83ee-9b4a-769b1ec3d454",
+    chatGptUrl: "https://chatgpt.com/share/6af49529-ded8-83ee-ac96-a10049547724",
   },
   SEM_PYQ_3: {
     examCode: "SEM_PYQ_3",
     examTitle: "Semester Examination – Dec 2025 (Sem 6, Q.Code: 133554)",
     questionPaperName: "OM22001.pdf",
-    chatGptUrl: "https://chatgpt.com/share/6af49529-ded8-83ee-ac96-a10049547724",
+    chatGptUrl: "https://chatgpt.com/share/6af49542-88b8-83ee-9b4a-769b1ec3d454",
   },
   SEM_PYQ_4: {
     examCode: "SEM_PYQ_4",
     examTitle: "Semester Examination – May 2026 (Sem 6, Q.Code: 323580)",
     questionPaperName: "OM22001-25211048.pdf",
-    chatGptUrl: "https://chatgpt.com/share/6af49506-0a44-83ec-85c1-6ecbbadda047",
+    chatGptUrl: "https://chatgpt.com/share/6af4955a-b0f0-83ec-bfa4-a3257b13a4de",
   },
 
   // FAT Examination Papers

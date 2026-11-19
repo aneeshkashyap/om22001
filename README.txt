@@ -127,9 +127,9 @@ E. Simple Home Page (/):
 F. Direct ChatGPT Solved Answers Integration:
    Every question paper is linked to its exact solved answers ChatGPT thread:
    1. SEM PYQ 1 (Dec 2024, Q.Code: 147184) -> https://chatgpt.com/share/6af49506-0a44-83ec-85c1-6ecbbadda047
-   2. SEM PYQ 2 (May 2025, Q.Code: 405686) -> https://chatgpt.com/share/6af49542-88b8-83ee-9b4a-769b1ec3d454
-   3. SEM PYQ 3 (Dec 2025, Q.Code: 133554) -> https://chatgpt.com/share/6af49529-ded8-83ee-ac96-a10049547724
-   4. SEM PYQ 4 (May 2026, Q.Code: 323580) -> https://chatgpt.com/share/6af49506-0a44-83ec-85c1-6ecbbadda047
+   2. SEM PYQ 2 (May 2025, Q.Code: 405686) -> https://chatgpt.com/share/6af49529-ded8-83ee-ac96-a10049547724
+   3. SEM PYQ 3 (Dec 2025, Q.Code: 133554) -> https://chatgpt.com/share/6af49542-88b8-83ee-9b4a-769b1ec3d454
+   4. SEM PYQ 4 (May 2026, Q.Code: 323580) -> https://chatgpt.com/share/6af4955a-b0f0-83ec-bfa4-a3257b13a4de
    5. FAT 1 (AY 2024-2025, OE statistics fat 1 (2024–2025).pdf) -> https://chatgpt.com/share/6af4959d-3f40-83ee-a7bc-7562286c5b1b
    6. FAT 1 (AY 2025-2026, OE statistics fat 1) -> https://chatgpt.com/share/6af49517-7c80-83ec-a422-4c8bde96cd14
    7. FAT 2 (AY 2024-2025, OE statistics fat 2.pdf) -> https://chatgpt.com/share/6af49588-ac1c-83ee-ab3e-b65021201e1d

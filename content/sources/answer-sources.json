@@ -1,7 +1,7 @@
 [
   {
     "id": "source-1",
-    "url": "https://chatgpt.com/share/6af49506-0a44-83ec-85c1-6ecbbadda047",
+    "url": "https://chatgpt.com/share/6af4955a-b0f0-83ec-bfa4-a3257b13a4de",
     "mappedTo": {
       "examCode": "SEM_PYQ_4",
       "category": "SEMESTER",
@@ -27,7 +27,7 @@
   },
   {
     "id": "source-3",
-    "url": "https://chatgpt.com/share/6af49529-ded8-83ee-ac96-a10049547724",
+    "url": "https://chatgpt.com/share/6af49542-88b8-83ee-9b4a-769b1ec3d454",
     "mappedTo": {
       "examCode": "SEM_PYQ_3",
       "category": "SEMESTER",
@@ -40,7 +40,7 @@
   },
   {
     "id": "source-4",
-    "url": "https://chatgpt.com/share/6af49542-88b8-83ee-9b4a-769b1ec3d454",
+    "url": "https://chatgpt.com/share/6af49529-ded8-83ee-ac96-a10049547724",
     "mappedTo": {
       "examCode": "SEM_PYQ_2",
       "category": "SEMESTER",

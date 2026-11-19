@@ -328,7 +328,7 @@ def extract_chat_messages(chat_path):
 
 ANSWER_CONFIGS = [
   {
-    'chat_file': 'scratch_chat_5.json',
+    'chat_file': 'scratch_chat_1.json',
     'exam_code': 'SEM_PYQ_1',
     'qp_filename': 'OM22001 (2).pdf',
     'ans_filename': 'SEM_PYQ_1_Dec_2024_Worked_Solutions.pdf',
@@ -343,7 +343,7 @@ ANSWER_CONFIGS = [
     'tags': 'Dec 2024, Sem 5, QCode 147184, Answers, Worked Solutions, Part A, Part B, Part C, 100 Marks',
   },
   {
-    'chat_file': 'scratch_chat_4.json',
+    'chat_file': 'scratch_chat_3.json',
     'exam_code': 'SEM_PYQ_2',
     'qp_filename': 'OM22001 (1).pdf',
     'ans_filename': 'SEM_PYQ_2_May_2025_Worked_Solutions.pdf',
@@ -353,12 +353,12 @@ ANSWER_CONFIGS = [
     'title': 'Semester Examination May 2025 (SEM PYQ 2) — Complete Worked Solutions',
     'subtitle': 'Anna University Regulation 2022',
     'exam_meta': 'Semester 5 | Q.Code: 405686 | Max Marks: 100 | Duration: 3 Hours',
-    'chat_url': 'https://chatgpt.com/share/6af49542-88b8-83ee-9b4a-769b1ec3d454',
+    'chat_url': 'https://chatgpt.com/share/6af49529-ded8-83ee-ac96-a10049547724',
     'description': 'Anna University End-Semester Examination – May 2025 (Fifth Semester) Official Worked Solutions. Q.Code: 405686. Full worked solutions for Part A (20 x 2M), Part B (5 x 10M), and Part C (1 x 10M compulsory).',
     'tags': 'May 2025, Sem 5, QCode 405686, Answers, Worked Solutions, Part A, Part B, Part C, 100 Marks',
   },
   {
-    'chat_file': 'scratch_chat_3.json',
+    'chat_file': 'scratch_chat_4.json',
     'exam_code': 'SEM_PYQ_3',
     'qp_filename': 'OM22001.pdf',
     'ans_filename': 'SEM_PYQ_3_Dec_2025_Worked_Solutions.pdf',
@@ -368,12 +368,12 @@ ANSWER_CONFIGS = [
     'title': 'Semester Examination Dec 2025 (SEM PYQ 3) — Complete Worked Solutions',
     'subtitle': 'Anna University Regulation 2022',
     'exam_meta': 'Semester 6 | Q.Code: 133554 | Max Marks: 100 | Duration: 3 Hours',
-    'chat_url': 'https://chatgpt.com/share/6af49529-ded8-83ee-ac96-a10049547724',
+    'chat_url': 'https://chatgpt.com/share/6af49542-88b8-83ee-9b4a-769b1ec3d454',
     'description': 'Anna University End-Semester Examination – December 2025 (Sixth Semester) Official Worked Solutions. Q.Code: 133554. Full worked solutions for Part A (20 x 2M), Part B (5 x 10M), and Part C (1 x 10M compulsory).',
     'tags': 'Dec 2025, Sem 6, QCode 133554, Answers, Worked Solutions, Part A, Part B, Part C, 100 Marks',
   },
   {
-    'chat_file': 'scratch_chat_1.json',
+    'chat_file': 'scratch_chat_5.json',
     'exam_code': 'SEM_PYQ_4',
     'qp_filename': 'OM22001-25211048.pdf',
     'ans_filename': 'SEM_PYQ_4_May_2026_Worked_Solutions.pdf',
@@ -383,7 +383,7 @@ ANSWER_CONFIGS = [
     'title': 'Semester Examination May 2026 (SEM PYQ 4) — Complete Worked Solutions',
     'subtitle': 'Anna University Regulation 2022',
     'exam_meta': 'Semester 6 | Q.Code: 323580 | Max Marks: 100 | Duration: 3 Hours',
-    'chat_url': 'https://chatgpt.com/share/6af49506-0a44-83ec-85c1-6ecbbadda047',
+    'chat_url': 'https://chatgpt.com/share/6af4955a-b0f0-83ec-bfa4-a3257b13a4de',
     'description': 'Anna University End-Semester Examination – May 2026 (Sixth Semester) Official Worked Solutions. Q.Code: 323580. Full worked solutions for Part A (20 x 2M), Part B (5 x 10M), and Part C (1 x 10M compulsory).',
     'tags': 'May 2026, Sem 6, QCode 323580, Answers, Worked Solutions, Part A, Part B, Part C, 100 Marks',
   },
